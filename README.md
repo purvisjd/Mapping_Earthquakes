@@ -1,6 +1,6 @@
 # Mapping Earthquakes
 
-##  The purpose of this particular project was to gain experience with utilizing Leaflet, Javascript, and JSON files to build interactive web-based maps to plot earthquake information from around the globe.
+##  The purpose of this particular project was to gain experience with utilizing Leaflet, Javascript, and JSON files to build interactive web-based maps to plot earthquake information from around the globe.  This project includes using multiple forms of markers, map styles, and varying layers for map layouts. 
 
 ###  Resources:
 *  data used:
